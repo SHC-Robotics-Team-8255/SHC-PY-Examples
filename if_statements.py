@@ -10,14 +10,15 @@
 password = "password123"
 
 if password == "password123":
-    print("password correct")
+    print("password correct")  # this part is indented, so it is part of the conditional
+print("this will be printed regardless")  # is part is not, so it is run every time
 
 # you can also use the reserved word "is"
 
 if password is "password123":
     print("this works too")
 
-# this only really works with strings though!
+# this only really works with strings though! 
 
 # we can check numbers too-
 
