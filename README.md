@@ -14,4 +14,4 @@ The order generally goes like this:
 1. [classes](https://github.com/SHC-Robotics-Team-8255/SHC-PY-Examples/blob/main/classes.py)
 
 
-Good luck- Have Fun!
+Good luck!
